@@ -1,0 +1,21 @@
+Capture OCR - 20250707_170822
+Caméra: Caméra 1 (MSMF)
+Langue: eng
+Préprocessing: Activé
+Seuil confiance: 80%
+
+Statistiques:
+  Temps traitement: 0.63s
+  Mots détectés: 20
+  Détections: 3
+  Confiance moyenne: 87.0%
+
+Texte détecté:
+----------------------------------------
+eee, 1/
+HN a
+a, x =
+~ ~ es.
+SRIVER “i
+{ROCK §
+atv i x 4 oe 4

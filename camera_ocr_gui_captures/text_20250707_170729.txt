@@ -1,0 +1,21 @@
+Capture OCR - 20250707_170729
+Caméra: Caméra 1 (MSMF)
+Langue: glg
+Préprocessing: Activé
+Seuil confiance: 80%
+
+Statistiques:
+  Temps traitement: 0.76s
+  Mots détectés: 15
+  Détections: 10
+  Confiance moyenne: 89.6%
+
+Texte détecté:
+----------------------------------------
+| pS
+Saotharlann Radaimbiniciochta agus Mhicreathoinne
+Radio Frequency and Microwave Lab
+|
+|
+||
+|

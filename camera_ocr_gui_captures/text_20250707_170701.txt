@@ -1,0 +1,19 @@
+Capture OCR - 20250707_170701
+Caméra: Caméra 1 (MSMF)
+Langue: fra
+Préprocessing: Activé
+Seuil confiance: 80%
+
+Statistiques:
+  Temps traitement: 0.58s
+  Mots détectés: 12
+  Détections: 6
+  Confiance moyenne: 90.3%
+
+Texte détecté:
+----------------------------------------
+be
+Saothartann Radaimhiniciochta agus Mhicreathoinne
+Radio Frequency and Microwave Lab
+|
+|
